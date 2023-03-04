@@ -1,0 +1,1 @@
+This is a Counter project created mainly for practicing JavaScript, all the codes here are working fine as intended

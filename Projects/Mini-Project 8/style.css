@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+.container{
+    text-align: center;
+    margin-top: 200px;
+}
+h1{
+    font-size: 96px;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+}
+#value{
+    font-size: 148px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+.btn{
+    font-size: 28px;
+    letter-spacing: 8px;
+    margin-left: 20px;
+    border-radius: 8px;
+    padding: 10px;
+}
+.btn:hover{
+    background-color: #000;
+    color: aliceblue;
+}
