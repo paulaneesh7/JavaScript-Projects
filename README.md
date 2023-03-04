@@ -36,5 +36,6 @@ Each project follows a similar file and folder structure:
 <h2>Usage</h2>
 Each project has its own set of features and usage instructions. Refer to the Content file inside each project folder for more details.
 
-
+## License
+[MIT LICENSE](LICENSE)
 
