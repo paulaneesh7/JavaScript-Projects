@@ -38,6 +38,3 @@ Each project has its own set of features and usage instructions. Refer to the Co
 
 
 
-<h2>License</h2>
-This repository is licensed under the MIT License. See the LICENSE file for more information.
-
