@@ -22,7 +22,7 @@ To get started with any of the projects, follow these steps:
 <li>Clone this repository to your local machine.</li>
 <li>Navigate to the project folder you want to run.</li>
 <li>Install any dependencies by running npm install in the terminal.</li>
-</li>Run the project using npm start or node app.js depending on the project.</li>
+<li>Run the project using npm start or node app.js depending on the project.</li>
 
 
 <h2>Project Structure</h2>
