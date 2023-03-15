@@ -1,0 +1,2 @@
+This is just a Restaurant Menu project mainly for done for practicing JavaScript, it's working completely fine
+as intended
