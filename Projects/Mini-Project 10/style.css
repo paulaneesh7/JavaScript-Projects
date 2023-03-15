@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 62.5%;
+    /* background-color: aliceblue; */
+    background-color: #fcf6ee;
+}
+
+hr {
+    border: none;
+    border-top: 1px dotted black;
+}
+
+.container{
+    margin: 3rem;
+}
+
+.primary-heading{
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.secondary-heading{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: 1.8px;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+}
+
+.btn{
+    font-size: 1.5rem;
+    font-weight: 500;
+    background-color: aliceblue;
+    color: burlywood;
+    padding: .5rem 1.5rem;
+    border: 3px solid #e0a353;
+    margin-top: 3rem;
+    border-radius: 11px;
+    transform: .10s;
+    overflow: hidden;
+}
+
+.btn:hover{
+    background-color: #e0a353;
+    color: aliceblue;
+    transform: scale(1.1);
+}
+
+.menu-container{
+    margin-top: 6rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 6.8rem;
+    column-gap: 3.5rem;
+}
+
+.food-img{
+    height: 12rem;
+    width: 18rem;
+    border: 6px solid #e0a353;
+    border-radius: 11px;
+    transition: all .4s;
+    /* overflow: hidden; */
+}
+
+.food-img:hover{
+    transform: scale(1.1);
+}
+
+.special-case-img{
+    /* height: ; */
+    width: 32rem;
+}
+
+.menu-items{
+    display: flex;
+    gap: 2rem;
+}
+
+.menu-description{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.item-price{
+    color: #e0a353;
+    margin-left: 10rem;
+}
+
+.menu-text{
+    font-size: 1.5rem;
+    color: #777;
+}
+
+/* .footer-container{
+    height: 3rem;
+    background-color: #e0a353;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0%;
+} */
+
+
+/* Scroll to top  */
+.scrollTop-style{
+    position: fixed;
+    right: 2%;
+    bottom: 5%;
+    z-index: 1;
+}
+
+.scroll-top{
+    width: 1.8rem;
+    height: 1.8rem;
+    display: inline-block;
+    background-color: #e0a353;
+    /* background-color: 	#b682c4; */
+    padding: 1.4rem 1.8rem;
+    border: 5px solid #643a03;
+    border-radius: 50%;
+    position: relative;
+    cursor: pointer;
+    /* opacity: .8; */
+}
+
+
+.breakfast{
+    display: none;
+}
+
+.lunch{
+    display: none;
+}
+
+.shake{
+    display: none;
+}
+
+.dinner{
+    display: none;
+}
