@@ -1,0 +1,2 @@
+This is just a Tab Component project mainly for done for practicing JavaScript, it's working completely fine
+as intended
