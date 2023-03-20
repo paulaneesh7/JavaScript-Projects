@@ -14,6 +14,8 @@ The following projects are included in this repository:
 <li>Color Flipper</li>
 <li>Counter</li>
 <li>BMI Calculator</li>
+<li> Restaurant Menu</li>
+<li> Tab Component</li>
 
 
 <h2>Getting Started</h2>
